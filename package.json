@@ -1,0 +1,16 @@
+{
+  "name": "string-calculator",
+  "version": "1.0.0",
+  "description": "Kata String Calculator in JS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jay Kid",
+  "license": "ISC"
+}
